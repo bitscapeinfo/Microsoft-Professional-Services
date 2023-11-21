@@ -50,7 +50,6 @@ Let's revolutionize your business together with Microsoft solutions!
 	- [Microsoft Viva Learning](https://www.bitscape.com/services/microsoft-viva-learning/) - Facilitate employee learning with Microsoft Viva.
 	- [Microsoft Viva Topics](https://www.bitscape.com/services/microsoft-viva-topics/) - Use Microsoft Viva Topics for knowledge discovery.
 	- [MS Dynamics 365 Migration Services](https://www.bitscape.com/services/ms-dynamics-365-migration-services/) - Smooth migration services for Microsoft Dynamics 365.
- 
 [Technologies](https://www.bitscape.com/technologies/)
 	- [Artificial Intelligence](https://www.bitscape.com/technologies/artificial-intelligence/) - Harness the power of AI for innovative solutions.
 	- [ASP.NET](https://www.bitscape.com/technologies/asp-net/) - Utilize ASP.NET for robust web application development
